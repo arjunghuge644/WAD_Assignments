@@ -4,3 +4,6 @@
 [submodule "WAD_1B"]
 	path = WAD_1B
 	url = https://github.com/arjunghuge644/WAD_1B.git
+[submodule "WAD_3A"]
+	path = WAD_3A
+	url = https://github.com/arjunghuge644/WAD_3A.git
