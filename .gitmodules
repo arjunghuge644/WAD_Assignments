@@ -10,3 +10,6 @@
 [submodule "WAD_2B"]
 	path = WAD_2B
 	url = https://github.com/arjunghuge644/WAD_2B.git
+[submodule "user-app"]
+	path = user-app
+	url = https://github.com/arjunghuge644/user-app.git
